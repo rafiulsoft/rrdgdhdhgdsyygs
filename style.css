@@ -1,0 +1,20 @@
+.new{
+    background-color: rgb(166, 66, 220);
+    text-align: center;
+    font-size: 40px;
+    margin: 0 auto;
+    width: fit-content;
+    height: fit-content;
+    padding: 20px 80px;
+    margin-top: 30px;
+    border-radius: 45px;
+}
+.new input{
+    padding: 5px 30px;
+    border-color: rgb(183, 198, 234);
+    border-radius: 5px;
+}
+.new .new2{
+    font-weight: bold;
+background-color: rgb(126, 126, 209);
+}
